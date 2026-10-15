@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InterviewLens
 
 AI mock interviews + resume gap check. MERN stack with Gemini (free tier) for the LLM.
@@ -50,3 +51,7 @@ client/src/
 - Score trend chart on the dashboard
 - Rate limiting (express-rate-limit) and Dockerfile + GitHub Actions for the DevOps angle
 - Deploy: Render (API), Vercel (client), MongoDB Atlas
+=======
+# InterviewLens1
+InterviewLens is an AI-powered interview preparation platform built with the MERN stack and Gemini API. It generates interview questions, evaluates user answers, provides personalized AI feedback, and tracks performance. It uses JWT authentication, REST APIs, MongoDB, and React for a complete full-stack experience.
+>>>>>>> origin/main
